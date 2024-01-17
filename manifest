@@ -170,6 +170,8 @@ export PACKAGE_OVERRIDES="\
 	https://github.com/ChimeraOS/mesa-chimeraos/releases/download/23.3.3-chos1-1/vulkan-radeon-1--23.3.3.chos1-1-x86_64.pkg.tar.zst \
 	https://archive.archlinux.org/repos/2023/06/28/extra/os/x86_64/libretro-pcsx2-11900-2-x86_64.pkg.tar.zst \
 	https://archive.archlinux.org/packages/l/libretro-mame/libretro-mame-85763-1-x86_64.pkg.tar.zst \
+	https://github.com/Lightwars/oxp-sensors-pkgbuild/releases/download/oxp-sensors-v0.1.r0.g0e0a85f/oxp-sensors-v0.1.r0.g0e0a85f-1-x86_64.pkg.tar.zst \
+	https://github.com/Lightwars/ayaneo-platform-pkgbuild/releases/download/ayaneo-platform-v0.3.r0.gf2a02a0/ayaneo-platform-v0.3.r0.gf2a02a0-1-x86_64.pkg.tar.zst \
 "
 
 # Each entry is the clone url (https://aur.archlinux.org/{AUR_PACKAGE}.git)
